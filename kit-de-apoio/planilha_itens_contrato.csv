@@ -1,0 +1,9 @@
+item,unidade_de_conferencia,quantidade_contratual_exemplo,grupo_obrigatorio,observacao
+Tangerina,unidade,380,sim,esférica a granel empilhada em camadas
+Banana,unidade,240,sim,chega em pencas - exige conversão penca->unidade
+Tomate,kg,25,sim,muitas peças pequenas caixa densa
+Cenoura,kg,12,sim,forma alongada com muitos vazios no empilhamento
+Laranja,unidade,,não,item de generalização opcional - mesma natureza da tangerina
+Maçã,unidade,,não,item de generalização opcional
+Batata,kg,,não,item de generalização opcional - mesma natureza do tomate/cenoura
+Repolho,unidade,,não,item de generalização opcional
