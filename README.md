@@ -2,9 +2,9 @@
 
 # Desafio Olho na Caixa: Kit de Apoio
 
-**Solutis AI Center** · Ativação da parceria com a **LIAO (Liga de IA e Otimização, UFBA)**
+**Solutis AI Center & LabS ** · Ativação da parceria com a **LIAO (Liga de Inteligência Artificial e Otimização) que é formada por alunos da UFBA)**
 
-> Quantas frutas realmente chegaram?
+> O desafio é usar criatividade e tecnologias de visão computacional para saber: Quantas frutas realmente chegaram?
 
 Este repositório reúne o material de apoio para quem vai participar do **Desafio Olho na Caixa**: um desafio aberto de visão computacional para responder, em menos de um minuto e no ato do recebimento, quanto realmente chegou dentro das caixas de hortifruti de uma escola.
 
