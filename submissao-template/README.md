@@ -5,7 +5,7 @@ Envie o link do seu repositório (público ou com acesso liberado para a banca) 
 ```
 seu-repositorio/
   codigo/                    → código-fonte completo
-  README.md                  → instruções de instalação e execução (a banca precisa conseguir rodar)
+  README.md                  → nome dos integrantes da equipe ou do participante individual, instruções de instalação e execução (a banca precisa conseguir rodar)
   documento/
     documento_submissao.pdf  → até 6 páginas (use o template documento_template.md como base)
   video/
@@ -28,4 +28,4 @@ seu-repositorio/
 
 ## Envio final
 
-Preencha o formulário de submissão com o link do seu repositório até **21/09/2026, 23h59**: `[link do Microsoft Forms a publicar]`
+Preencha o formulário de submissão com o link do seu repositório até **02/10/2026, 23h59**: `[Submissão de proposta de solução](https://forms.cloud.microsoft/r/WNb1hATgch)`

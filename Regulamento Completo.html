@@ -207,13 +207,13 @@
             <line x1="560" y1="185" x2="470" y2="200" stroke="#007DC6" stroke-width="2" stroke-dasharray="5 5" opacity="0.55"/>
             <line x1="560" y1="200" x2="470" y2="215" stroke="#007DC6" stroke-width="2" stroke-dasharray="5 5" opacity="0.35"/>
           </svg>
-          <p class="figure-caption">Na cozinha da escola, um celular comum e visão computacional respondem, em segundos, quanto realmente chegou dentro da caixa.</p>
+          <p class="figure-caption">Na cozinha da escola, um celular comum e visão computacional respondem, “em segundos”, quanto realmente chegou naquela caixa.</p>
         </div>
         <p>Terça-feira, 7h40. O caminhão do fornecedor para na frente da escola. Descem quatorze caixas.</p>
         <p>O contrato diz o que deveria ter dentro delas: 380 unidades de tangerina, 240 unidades de banana, 25 kg de tomate, 12 kg de cenoura. Para saber se chegou, alguém teria que contar 380 tangerinas, uma por uma, em cima da pia. E depois contar 240 bananas. E depois pesar o tomate, sem balança, ou com uma balança de cozinha que não aguenta a caixa inteira.</p>
         <p>Ninguém faz isso. Não por descuido: <strong>porque não cabe.</strong> O entregador está com o motor ligado e mais seis escolas na rota. O café das 8h não pode atrasar. A única pessoa disponível para receber é a mesma que está preparando a refeição, e ela tem talvez um minuto por caixa.</p>
         <p>Então acontece o que sempre acontece: olha-se as caixas por cima, parece certo, assina.</p>
-        <p>A conferência só tem valor se acontecer naquele instante, com o entregador ainda parado ali: é o único momento em que dá para recusar a caixa e devolver. Depois que o caminhão vira a esquina, uma falta não é mais um erro corrigível, virou perda. Multiplique por centenas de escolas, cinco vezes por semana, o ano letivo inteiro.</p>
+        <p>A conferência só tem valor se acontecer naquele instante, com o entregador ainda parado ali: é o único momento em que dá para recusar a caixa e devolver. Depois que o caminhão vira a esquina, uma falta virou perda, porém ainda faz sentido uma auditoria sobre o que foi entregue. Afinal multiplique por centenas de escolas, cinco vezes por semana, o ano letivo inteiro.</p>
         <div class="lead-quote">O desafio é responder o mais rápido possível, idealmente em menos de um minuto, e no ato do recebimento: quanto realmente chegou dentro dessas caixas?</div>
       </div>
     </section>
@@ -248,7 +248,7 @@
         <p>YOLO e similares, modelos multimodais (Google, OpenAI, Anthropic), modelos próprios ou combinações. Nenhuma abordagem é privilegiada: vale o resultado.</p>
 
         <span class="pill">4. Mudar o processo é permitido</span>
-        <p>O processo atual é manual e sem padrão. Apoiar a caixa em um lugar específico, transferir conteúdo em etapas, folha impressa no enquadramento, dois ângulos, pesar em duas partes: tudo é jogo. Limite único: caber em menos de um minuto por caixa, com uma pessoa só, sem treinamento longo e sem constranger o entregador.</p>
+        <p>O processo atual é manual e sem padrão. Apoiar a caixa em um lugar específico, transferir conteúdo em etapas, folha impressa no enquadramento, dois ângulos, pesar em duas partes: tudo é jogo. Limite único: a captura deve caber em menos de um minuto por caixa, com uma pessoa só, sem treinamento longo e com o mínimo de fricção.</p>
       </div>
     </section>
 
@@ -259,7 +259,7 @@
         <div class="grid-2">
           <div>
             <div class="faq-q">1. Processo de captura</div>
-            <p style="font-size:14.5px; color:var(--gray)">Como a informação entra: foto, vídeo, sequência, ordem dos passos, tempo, o que o app pede para enquadrar, o que acontece com luz ruim. Se exige mudar o recebimento, descreva e argumente a baixa fricção.</p>
+            <p style="font-size:14.5px; color:var(--gray)">Como a informação entra: foto, vídeo, sequência, ordem dos passos, tempo, o que o app pede para enquadrar, o que acontece com luz ruim. Se exige checagem ou devolução, descreva e argumente a baixa fricção.</p>
           </div>
           <div>
             <div class="faq-q">2. Evidências da abordagem</div>
@@ -267,7 +267,7 @@
           </div>
         </div>
         <div class="faq-q">3. PoC / protótipo funcional</div>
-        <p style="font-size:14.5px; color:var(--gray)">Protótipo que recebe a captura real e devolve a contagem ou a medição automatizada, não uma maquete de telas nem um slide de arquitetura. App, web ou notebook com interface simples. Precisa rodar na frente da banca sobre material que a banca escolher.</p>
+        <p style="font-size:14.5px; color:var(--gray)">Protótipo que recebe a captura real e devolve a contagem ou a medição automatizada, não uma maquete de telas nem um slide de arquitetura. App, web ou notebook com interface simples. Precisa rodar na frente da banca sobre material que a banca pode escolher.</p>
       </div>
     </section>
 
@@ -313,7 +313,7 @@
           <tr><th>Ponto extra</th><th style="text-align:center">Pontos</th></tr>
           <tr><td>Estimar peso por imagem sem depender de balança</td><td style="text-align:center"><span class="weight-badge">+3</span></td></tr>
           <tr><td>Tratar explicitamente os casos em que a solução não deve responder (luz insuficiente, enquadramento ruim, item não identificado)</td><td style="text-align:center"><span class="weight-badge">+3</span></td></tr>
-          <tr><td>Tempo total por caixa abaixo de 30 segundos</td><td style="text-align:center"><span class="weight-badge">+3</span></td></tr>
+          <tr><td>Tempo total por caixa abaixo de 1 minuto</td><td style="text-align:center"><span class="weight-badge">+3</span></td></tr>
           <tr><td>Custo por conferência declarado, quando houver uso de API paga</td><td style="text-align:center"><span class="weight-badge">+3</span></td></tr>
           <tr><td>Generalizar para outros itens da lista sem retrabalho</td><td style="text-align:center"><span class="weight-badge">+3</span></td></tr>
         </table>
@@ -324,9 +324,9 @@
       <h2>Prazo e premiação</h2>
       <div class="card">
         <div class="timeline">
-          <div class="tl-item"><div class="tl-date">22/08/2026</div><div class="tl-desc">Publicação do desafio</div></div>
+          <div class="tl-item"><div class="tl-date">27/08/2026</div><div class="tl-desc">Publicação do desafio</div></div>
           <div class="tl-item"><div class="tl-date">Durante os 30 dias</div><div class="tl-desc">Canal de dúvidas aberto e kit de apoio disponível</div></div>
-          <div class="tl-item"><div class="tl-date">21/09/2026, 23h59</div><div class="tl-desc">Prazo final único para todas as submissões</div></div>
+          <div class="tl-item"><div class="tl-date">02/10/2026, 23h59</div><div class="tl-desc">Prazo final único para todas as submissões</div></div>
           <div class="tl-item"><div class="tl-date placeholder">a definir</div><div class="tl-desc placeholder">Avaliação da banca e anúncio do vencedor</div></div>
         </div>
         <p style="margin-top:18px">A Solutis premiará o autor da melhor solução apresentada, que atenda aos requisitos do desafio, com valor <strong>entre R$ 3.000,00 e R$ 5.000,00</strong>. O vencedor e o valor exato serão definidos pela banca avaliadora indicada pela Solutis, exclusivamente pela qualidade e completude da solução.</p>
@@ -355,9 +355,8 @@
       <h2>Kit de apoio fornecido pela Solutis</h2>
       <div class="card">
         <ul class="tight">
-          <li>Planilha de itens do contrato, com a unidade de conferência de cada produto</li>
-          <li>Fotos e vídeos de referência de recebimentos reais</li>
-          <li>Gabarito de alguns lotes (contagem e peso reais) para calibração</li>
+          <li>Planilha de itens de hortifruti com a unidade de conferência de cada produto</li>
+          <li>Fotos e vídeos de referência</li>
           <li>Canal de dúvidas durante todo o período do desafio</li>
         </ul>
         <div class="callout">📦 Repositório do kit de apoio (template de submissão, planilha e instruções): <a href="https://github.com/marx-correia/desafio-olho-na-caixa" target="_blank" rel="noopener">github.com/marx-correia/desafio-olho-na-caixa</a></div>
@@ -367,18 +366,19 @@
     <section id="regras">
       <h2>Regras e observações</h2>
       <div class="card">
-        <p><strong>Participação:</strong> restrita a alunos regularmente matriculados na UFBA (graduação ou pós-graduação), individualmente ou em equipe (indique um representante). A inscrição pela LIAO, Liga de IA e Otimização, é incentivada, mas não obrigatória para quem já é aluno da UFBA.</p>
-        <p><strong>Propriedade intelectual:</strong> você mantém a autoria da sua solução e concede à Solutis licença de uso não exclusiva do material submetido, para avaliação e demonstração deste desafio.</p>
-        <p><strong>Privacidade e LGPD:</strong> o ambiente é uma escola. Não capture crianças. Rostos de adultos que apareçam no material devem ter consentimento ou ser desfocados. A solução não deve depender de reconhecimento de pessoas para funcionar.</p>
+        <p><strong>Participação:</strong> restrita a alunos regularmente matriculados na UFBA (graduação ou pós-graduação), individualmente ou em equipe. A LIAO - Liga de Inteligência Artificial e Otimização, é incentivada pela parceria, mas o desafio NÃO está restrito apenas aos alunos membros da Liga.</p>
+        <p><strong>Propriedade intelectual:</strong> você mantém a autoria da sua solução e concede à Solutis licença de uso não exclusiva do material submetido, para avaliação e demonstração deste desafio e compartilhamento de conhecimento.</p>
+        <p><strong>Privacidade e LGPD:</strong> vale lembrar que o ambiente é uma escola. Portanto rostos de adultos ou crianças que apareçam no material devem ser desfocados/anonimizados. A solução não deve depender de reconhecimento de pessoas para funcionar.</p>
       </div>
     </section>
 
     <section id="inscricao">
       <h2>Inscrição e envio</h2>
       <div class="card">
-        <p>Preencha o formulário de inscrição para receber acesso ao canal de dúvidas e ao kit de apoio. A submissão final (repositório, documento, vídeo e material de captura) é feita pelo mesmo formulário até o prazo final.</p>
+        <p>Preencha o formulário de inscrição para receber acesso ao canal de dúvidas e incrementos ao kit de apoio. A submissão final (repositório, documento, vídeo e material de captura) é feita pelo mesmo formulário de envio final.</p>
         <div class="cta-row">
-          <a class="btn btn-primary" href="https://forms.cloud.microsoft/r/m6qLkbRGDw" target="_blank" rel="noopener">Preencher o formulário de inscrição e submissão</a>
+          <a class="btn btn-primary" href="https://forms.cloud.microsoft/r/m6qLkbRGDw" target="_blank" rel="noopener">Preencher o formulário de inscrição</a>
+          <a class="btn btn-secondary" href="https://forms.cloud.microsoft/r/WNb1hATgch" target="_blank" rel="noopener">Submissão de proposta de solução</a>
         </div>
       </div>
     </section>
@@ -401,7 +401,7 @@
   <div class="wrap">
     <img src="data:image/png;base64,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" alt="Solutis">
     <div>Solutis AI Center &amp; Solutis LabS · Desafio Olho na Caixa · 2026</div>
-    <div>Ativação da parceria com a LIAO, Liga de IA e Otimização (UFBA)</div>
+    <div>Ativação da parceria com a LIAO, Liga de Inteligência Artificial e Otimização (UFBA)</div>
   </div>
 </footer>
 

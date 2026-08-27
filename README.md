@@ -2,29 +2,31 @@
 
 # Desafio Olho na Caixa: Kit de Apoio
 
-**Solutis - AI Center & LabS ** · Ativação de parceria para com a **LIAO (Liga de Inteligência Artificial e Otimização)formada por alunos da UFBA**
+ **Solutis - AI Center & LabS** · Em ativação de parceria com a: 
+ **LIAO (Liga de Inteligência Artificial e Otimização)** formada por alunos da UFBA
 
-> O desafio é usar criatividade e tecnologias de visão computacional para saber: Quantas frutas realmente chegaram?
+> O desafio é usar criatividade e tecnologias de visão computacional para saber: **Quantas frutas realmente chegaram?**
 
-Este repositório reúne o material de apoio para quem vai participar do **Desafio Olho na Caixa**: um desafio aberto de visão computacional para responder, no ato do recebimento, quanto realmente chegou dentro das caixas de hortifruti para uma escola.
+![Ilustracao](assets/ilustracao-historia.png)
 
-- 📄 Regulamento completo: `Desafio_Olho_na_Caixa.pdf` 
-- 🌐 Landing page do desafio: `[link a publicar]`
-- 📝 Formulário de inscrição e submissão: `[https://forms.cloud.microsoft/r/m6qLkbRGDw]`
+Este repositório reúne o material de apoio para quem vai participar do **Desafio Olho na Caixa**: um desafio de visão computacional para responder, no ato do recebimento de produtos, quanto realmente chegou dentro das caixas de hortifruti para uma escola.
+
+- 📄 Regulamento completo: `[Regulamento Completo.md](Regulamento Completo.md)`
+- 📝 Formulário de inscrição e submissão: `[Formulário de inscrição](https://forms.cloud.microsoft/r/m6qLkbRGDw)`
 - 💰 Prêmio: R$ 3.000 a R$ 5.000
-- 📅 Publicação: 22/08/2026 · Prazo final: 21/09/2026, 23h59
+- 📅 Publicação: 27/08/2026 · Prazo final: 02/10/2026, 23h59
 
 ## Estrutura deste repositório
 
 ```
 assets/
   logo-solutis-principal.png      → identidade visual oficial da Solutis, usada neste README
+  ilustracao-historia.png         → imagem meramente ilustrativa da história utilizada como contexto
 
 kit-de-apoio/
-  planilha_itens_contrato.csv     → lista de hortifruti do contrato, com unidade de conferência de cada item
-  fotos-videos-referencia/        → (a preencher pela Solutis) fotos e vídeos reais de recebimentos
-  gabarito-calibracao/            → (a preencher pela Solutis) lotes com contagem e peso reais conferidos manualmente
-
+  planilha_itens_contrato.csv     → lista de hortifruti com unidade de conferência de cada item
+  referencia/        → (a preencher pela Solutis) fotos ou vídeos reais de recebimentos (permitido sintetizar fotos/vídeos com IA)
+  
 submissao-template/
   README.md                       → como organizar e nomear sua entrega
   documento_template.md           → esqueleto do documento de até 6 páginas exigido na submissão
