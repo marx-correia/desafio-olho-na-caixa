@@ -2,15 +2,15 @@
 
 # Desafio Olho na Caixa: Kit de Apoio
 
-**Solutis AI Center & LabS ** · Ativação da parceria com a **LIAO (Liga de Inteligência Artificial e Otimização) que é formada por alunos da UFBA)**
+**Solutis - AI Center & LabS ** · Ativação de parceria para com a **LIAO (Liga de Inteligência Artificial e Otimização)formada por alunos da UFBA**
 
 > O desafio é usar criatividade e tecnologias de visão computacional para saber: Quantas frutas realmente chegaram?
 
-Este repositório reúne o material de apoio para quem vai participar do **Desafio Olho na Caixa**: um desafio aberto de visão computacional para responder, em menos de um minuto e no ato do recebimento, quanto realmente chegou dentro das caixas de hortifruti de uma escola.
+Este repositório reúne o material de apoio para quem vai participar do **Desafio Olho na Caixa**: um desafio aberto de visão computacional para responder, no ato do recebimento, quanto realmente chegou dentro das caixas de hortifruti para uma escola.
 
-- 📄 Regulamento completo: `Desafio_Olho_na_Caixa.pdf` (anexo enviado na inscrição, também disponível na landing page)
+- 📄 Regulamento completo: `Desafio_Olho_na_Caixa.pdf` 
 - 🌐 Landing page do desafio: `[link a publicar]`
-- 📝 Formulário de inscrição e submissão: `[link do Microsoft Forms a publicar]`
+- 📝 Formulário de inscrição e submissão: `[https://forms.cloud.microsoft/r/m6qLkbRGDw]`
 - 💰 Prêmio: R$ 3.000 a R$ 5.000
 - 📅 Publicação: 22/08/2026 · Prazo final: 21/09/2026, 23h59
 
