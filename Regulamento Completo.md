@@ -5,13 +5,13 @@
 
 *Desafio aberto aos alunos da UFBA e promovido pela Solutis AI Center & LabS*
 
-> 🤝 Ativação da parceria com a LIAO, Liga de IA e Otimização (UFBA)
+> 🤝 Ativação da parceria com a LIAO, Liga de Inteligência Artificial e Otimização (UFBA)
 
 | | |
 |---|---|
 | 💰 Prêmio | R$ 3.000 a R$ 5.000 |
-| 📅 Prazo final | 21/09/2026, 23h59 |
-| 🚀 Publicação | 22/08/2026 |
+| 📅 Prazo final | 02/10/2026, 23h59 |
+| 🚀 Publicação | 27/08/2026 |
 
 **[Quero participar](#inscrição-e-envio)** · **[Ver o que entregar](#o-que-entregar)**
 
