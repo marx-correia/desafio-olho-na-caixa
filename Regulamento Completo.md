@@ -170,7 +170,7 @@ Preencha o formulário de inscrição para receber acesso ao canal de dúvidas e
 
 **[Preencher o formulário de inscrição](https://forms.cloud.microsoft/r/m6qLkbRGDw)**
 
-**[Submissão de proposta de solução](https://forms.cloud.microsoft/r/WNb1hATgch)**
+**[Submissão de proposta - Envio final](https://forms.cloud.microsoft/r/WNb1hATgch)**
 
 
 ## Dúvidas frequentes
@@ -192,5 +192,5 @@ Não. Precisa errar pouco, medir quanto erra e explicar como mediu.
 
 ---
 
-Solutis AI Center & Solutis LabS · Desafio Olho na Caixa · 2026
+Solutis - AI Center & Solutis LabS · Desafio Olho na Caixa · 2026
 Ativação da parceria com a LIAO, Liga de Inteligência Artificial e Otimização (UFBA)
