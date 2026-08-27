@@ -11,7 +11,7 @@
 
 Este repositório reúne o material de apoio para quem vai participar do **Desafio Olho na Caixa**: um desafio de visão computacional para responder, no ato do recebimento de produtos, quanto realmente chegou dentro das caixas de hortifruti para uma escola.
 
-- 📄 Regulamento completo: [Regulamento Completo](Regulamento Completo.md)
+- 📄 Regulamento completo: [RegulamentoCompleto](<Regulamento Completo.md>)
 - 📝 Formulário de inscrição e submissão: [Formulário de inscrição](https://forms.cloud.microsoft/r/m6qLkbRGDw)
 - 💰 Prêmio: R$ 3.000 a R$ 5.000
 - 📅 Publicação: 27/08/2026 · Prazo final: 02/10/2026, 23h59
