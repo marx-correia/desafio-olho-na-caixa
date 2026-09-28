@@ -10,7 +10,7 @@
 | | |
 |---|---|
 | 💰 Prêmio | R$ 3.000 a R$ 5.000 |
-| 📅 Prazo final | 02/10/2026, 23h59 |
+| 📅 Prazo final | ~~02/10/2026~~ **06/11/2026**, 23h59 |
 | 🚀 Publicação | 27/08/2026 |
 
 **[Quero participar](#inscrição-e-envio)** · **[Ver o que entregar](#o-que-entregar)**
@@ -129,7 +129,7 @@ Cada item atendido abaixo soma **3 pontos extras** à pontuação base, no limit
 
 - **27/08/2026**: Publicação do desafio
 - **Durante os 30 dias**: Canal de dúvidas aberto e kit de apoio disponível
-- **02/10/2026, 23h59**: Prazo final único para todas as submissões
+- ~~02/10/2026~~ **06/11/2026, 23h59**: Prazo final único para todas as submissões
 - **A definir**: Avaliação da banca e anúncio do vencedor
 
 A Solutis premiará o autor da melhor solução apresentada, que atenda aos requisitos do desafio, com valor **entre R$ 3.000,00 e R$ 5.000,00**. O vencedor e o valor exato serão definidos pela banca avaliadora indicada pela Solutis, exclusivamente pela qualidade e completude da solução.

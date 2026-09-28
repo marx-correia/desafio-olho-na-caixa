@@ -28,4 +28,4 @@ seu-repositorio/
 
 ## Envio final
 
-Preencha o formulário de submissão com o link do seu repositório até **02/10/2026, 23h59**: `[Submissão de proposta de solução](https://forms.cloud.microsoft/r/WNb1hATgch)`
+Preencha o formulário de submissão com o link do seu repositório até ~~02/10/2026~~ **06/11/2026, 23h59**: `[Submissão de proposta de solução](https://forms.cloud.microsoft/r/WNb1hATgch)`

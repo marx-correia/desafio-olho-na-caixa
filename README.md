@@ -14,7 +14,7 @@ Este repositório reúne o material de apoio para quem vai participar do **Desaf
 - 📄 Regulamento completo: [RegulamentoCompleto](<Regulamento Completo.md>)
 - 📝 Formulário de inscrição e submissão: [Formulário de inscrição](https://forms.cloud.microsoft/r/m6qLkbRGDw)
 - 💰 Prêmio: R$ 3.000 a R$ 5.000
-- 📅 Publicação: 27/08/2026 · Prazo final: 02/10/2026, 23h59
+- 📅 Publicação: 27/08/2026 · Prazo final: ~~02/10/2026~~ **06/11/2026**, 23h59
 
 ## Estrutura deste repositório
 
